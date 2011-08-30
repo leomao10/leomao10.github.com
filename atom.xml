@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>My Octopress Blog</title>
+  <title>Leo Liang's Octopress Blog</title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2011-08-31T00:25:20+10:00</updated>
+  <updated>2011-08-31T00:42:45+10:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name>Your Name</name>
+    <name>Leo Liang</name>
     
   </author>
 
   
   <entry>
-    <title>New-post</title>
+    <title>Hello World</title>
     <link href="http://yoursite.com/blog/2011/08/31/hello-world/"/>
     <updated>2011-08-31T00:20:00+10:00</updated>
     <id>http://yoursite.com/blog/2011/08/31/hello-world</id>
